@@ -23,7 +23,7 @@ Le site se devait d'uitiliser node.js, Express et MongoDB (avec mongoose).
 - Rendez-vous sur `http://localhost:4200/`
 
 Bonne navigation !
-# OttinTimothe_6_04012021
+
 #########################################################################################
 
 
